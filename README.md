@@ -26,7 +26,7 @@ Discord Manager and Strategic Operations at Levelyn Esports. Building community 
 **Levelyn Esports**  
 Community system architecture. Operational workflows. Discord infrastructure that handles real scale.
 
-**EXEC Hankai**  
+**The Shayon Ahmed**  
 Content creation. YouTube, TikTok, visual narratives.
 
 **Ongoing**  
